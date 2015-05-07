@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+   Copyright (C) 2015 Joachim Thilo
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.  
+ -->
+<resources>
+    <string name="app_name">Slide</string>
+    <string name="score">Total Score: %d</string>
+    <string name="lastmove">Last Move: %d</string>
+    <string name="hscore">Score: %d</string>
+    <string name="easy">Easy</string>
+    <string name="normal">Normal</string>
+    <string name="hard">Hard</string>
+    <string name="highscore">Highscore</string>
+    <string name="show_help">Help</string>
+    <string name="quit">Quit</string>
+    <string name="about">About</string>
+    
+    <string-array name="helpscreen">
+    <item> </item>
+    <item> </item>    
+    	<item>Click Left, Right, Up or</item> 
+    	<item>Down to have the free</item>
+    	<item>Blocks move in that direction.</item>
+    	<item> </item>
+		<item>If you form groups of 3</item>
+		<item>or more blocks, they will be</item>
+		<item>removed, giving you more space</item>
+		<item>to move the blocks further.</item>
+	</string-array>
+</resources>
